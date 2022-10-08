@@ -1,0 +1,4 @@
+	Explicación de la documentación;
+
+La documentación la desarrollare en word acorde a los estandares impuestos
+en las instrucciones del TFG.
