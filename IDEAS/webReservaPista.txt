@@ -1,0 +1,41 @@
+IDEAS: 
+
+    La idea de la web de reserva de pista para mi municipio viene de la necesidad de poder reservar
+    pista para el complejo deportivo sin necesidad de que la biblioteca este abierta o que en verano 
+    la piscina este abierta.
+    Ademas de la necesidad de llevar un control de quien usa las pistas por posibles desperfectos 
+    o problemas ocasionados ( EJ: Si no se va a poder usar la reserva podriamos liberar esa pista 
+    y hora para otra posible reserva, ademas de aviasr a los usuarios de la WEB que esa hora ha sido
+    liberada por ejemplo).
+
+    Pero no solo es esto, esto fue la idea inical. Tambien lo puedo utilizar para administrar el pabellón,
+    o para la venta de entradas o productos del equipo local de mi pueblo.
+
+    IDEA PÁGINA: 
+
+    La WEB sera una web de reserva de pistas o entradas para enventos o incluso de inscripción a los mismos.
+    Estara el administrador que se encargara de poner los eventos y administrar la WEB.
+    Y luego estara el usuario común, el cuál podra reservar plaza para la piscina y pagarla, reservar pista 
+    y pagar ficha de luz o podran comprar entradas o hacerse socio del SPORT VILLAMAYOR.
+
+    IDEA NOMBRE: 
+
+        Como el complejo de mi pueblo se llama "Nuevo Villaverde" en honor a una de las villas 
+        en la cuál estaba la piscina vieja.
+
+        -El nombre seria:  "VILLADEPORTE"
+
+            Mi pueblo se llama Villamayor de Santiago porque 7 villas de los alrededores de la orden
+            de santiago se juntaron en la villa mas grande y de hay salio mi pueblo. Como el complejo 
+            hace honor a la villa donde se encontraba la piscina vieja yo tambien hare nombre a mu pueblo
+            con el nombre de la WEB.
+            Hago una alusión a que las pista del complejo deportivo son otra villa de las que se juntaron 
+            para formar parte de villamayor y como esta relacionado con el deporte pues deporte.
+
+    Base de datos:
+
+    
+
+PROS:
+
+CONTRAS:
